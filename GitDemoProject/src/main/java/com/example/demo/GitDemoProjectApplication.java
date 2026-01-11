@@ -11,6 +11,7 @@ public class GitDemoProjectApplication {
 		int value=10;
 		int v=17;
 	String name="";
+	String surname="kalyankar";
 		//add code
 	}
 
