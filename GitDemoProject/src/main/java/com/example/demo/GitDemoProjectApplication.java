@@ -12,7 +12,7 @@ public class GitDemoProjectApplication {
 		int v=17;
 	String name="";
 	String surname="kalyankar";
-	String last="";
+//	String last="";
 		//add code
 	}
 
