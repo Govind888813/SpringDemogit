@@ -17,6 +17,7 @@ public class GitDemoProjectApplication {
 		
 		
 		String city="mumbai";
+		String area="dadar";
 	}
 
 }
