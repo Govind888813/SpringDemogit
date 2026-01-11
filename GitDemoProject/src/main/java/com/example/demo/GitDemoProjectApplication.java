@@ -10,10 +10,13 @@ public class GitDemoProjectApplication {
 		SpringApplication.run(GitDemoProjectApplication.class, args);
 		int value=10;
 		int v=17;
-	String name="";
-	String surname="kalyankar";
-//	String last="";
-		//add code
+		String name="";
+		String surname="kalyankar";
+		String last="";
+	//	add code
+		
+		
+		String city="mumbai";
 	}
 
 }
